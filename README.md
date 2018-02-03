@@ -71,6 +71,4 @@ install the project dependences.
 - Build something, anything!
 - Share it with [the community](https://www.facebook.com/groups/DevCJeddah/)
 
---
-
 **Happy Hacking! :)**
