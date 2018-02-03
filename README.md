@@ -22,8 +22,8 @@ See [Requirements](./Requirements.md)
 
 ## Workshop
 
-When you download either version of the project. Please run `yarn install` to 
-install the project dependences.
+If you wish to run either version of the project. Please run `yarn install` to 
+install the project dependences first, for each version.
 
 - [Incomplete Version](./Workshop/Incomplete)
 
